@@ -6,11 +6,6 @@ The purpose of the portfolio is to learn by coding while reviewing Statistics/Pr
 Any feedback would be greatly appreciated. <br>
 Email: abella.robertalfred@gmail.com | Phone: 09269543173 | LinkedIn: linkedin.com/in/abella-robert-alfred
 
-## Workspace setup
-- Anaconda
-- Jupyter Notebook
-- Agile Management tools: Git and Github, Trello
-
 ## Tools
 - ### Workspace setup
   - Anaconda
