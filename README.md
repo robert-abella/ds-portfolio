@@ -1,17 +1,25 @@
 # Data Science Portfolio
-A repository containing my first (not the last one) project to explore the field of Data Science.
+A repository containing projects written in python to explore the field of Data Science.
+The Data Science Lifecycle was followed as a guide for completing these projects.
+The purpose of the portfolio is to learn by coding while reviewing Statistics/Probability concepts.
 
-Any feedback would be greatly appreciated! <br>
-Email: abella.robertalfred@gmail.com | Phone: 09269543173 (ph)
+Any feedback would be greatly appreciated. <br>
+Email: abella.robertalfred@gmail.com | Phone: 09269543173 | LinkedIn: linkedin.com/in/abella-robert-alfred
 
 ## Workspace setup
 - Anaconda
 - Jupyter Notebook
-- Agile Management tools: Git, Trello
+- Agile Management tools: Git and Github, Trello
 
 ## Tools
-- Python
-- Pandas, Numpy
-- scikit-learn
-- seaborn, matplotlib
-- xgboost
+- ### Workspace setup
+  - Anaconda
+  - Jupyter Notebook
+  - Agile Management tools: Git, Trello
+  
+- ### Data Science
+  - Python 
+  - Pandas, Numpy
+  - scikit-learn
+  - seaborn, matplotlib
+  - Xgboost
